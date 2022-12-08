@@ -1,10 +1,12 @@
 body {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Play', sans-serif;
     margin: 0;
 }
 
 .txt-orange {
     color: orange;
+    font-family: Caveat;
+    font-weight: bolder;
 }
 
 .abt-me-txt {
@@ -71,6 +73,9 @@ body {
 
 h1 {
     font-size: 30px;
+    font-family: Caveat;
+    font-weight: bolder;
+    text-transform: uppercase;
 }
 
 h2 {
@@ -83,5 +88,6 @@ h2 {
 
 footer p {
     text-align: center;
-
+    font-family: Caveat;
+    font-size: larger;
 }
